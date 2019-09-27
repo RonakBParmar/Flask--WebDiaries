@@ -21,3 +21,4 @@ features. This would also allow multiple user access and form input/output featu
 -Corey M Schafer
 https://www.youtube.com/channel/UCCezIgC97PvUuR4_gbFUs5g
 
+Please click on the link if you interested in learning Flask. Corey is a great teacher and Flask is a great tool in Python. I am sure you won't regret it :)
